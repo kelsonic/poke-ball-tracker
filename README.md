@@ -1,6 +1,6 @@
 # Pokeball Tracker
 
-Pokeball Tracker is an app used to manage your pokeballs in ![Pokemon Go](http://www.pokemon.com/us/pokemon-video-games/pokemon-go/). It uses a Rails backend and a React.js frontend.
+Pokeball Tracker is an app used to manage your pokeballs in [Pokemon Go](http://www.pokemon.com/us/pokemon-video-games/pokemon-go/). It uses a Rails backend and a React.js frontend.
 
 ## Installation
 
